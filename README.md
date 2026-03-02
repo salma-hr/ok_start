@@ -1,2 +1,13 @@
-# ok_start
-Digitalisation du processus "OK Démarrage" – Application web développée avec Spring Boot (Backend) et React (Frontend) pour la gestion du contrôle qualité avant démarrage des machines, avec authentification JWT et gestion des rôles.
+Digitalisation du processus "OK Démarrage"
+
+Ce projet a pour objectif de digitaliser le processus OK Démarrage, un contrôle qualité réalisé avant le lancement des machines de production.
+
+L’application permet de gérer les utilisateurs, les rôles, et les opérations liées au contrôle qualité via une architecture moderne basée sur :
+
+Backend : Spring Boot
+
+Frontend : React
+
+Base de données : MySQL
+
+Sécurité : JWT Authentication + Spring Security
